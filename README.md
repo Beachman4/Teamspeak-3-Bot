@@ -12,5 +12,8 @@ The layout is such,
   }
 }
 ```
-
-Then run node src/teamspeak.js and it will automatically detect vpn connections.
+Then run,
+```bash
+$ node src/teamspeak.js
+```
+and it will automatically detect vpn connections.
